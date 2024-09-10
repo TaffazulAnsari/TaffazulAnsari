@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, Stream-lit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Taffazulansari011/](https://github.com/Taffazulansari011/)
+- 👨‍💻 All of my projects are available at [https://github.com/Taffazulansari7979/](https://github.com/Taffazulansari011/)
 
 - 💬 Ask me about **Python, Java, Node, Express, React, MongoDB, MySql**
 
