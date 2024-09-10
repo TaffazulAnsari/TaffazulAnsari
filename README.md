@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Java, Node, Express, React, MongoDB, MySql**
 
-- 📫 How to reach me **taffazulansari011@gmail.com**
+- 📫 How to reach me **taffazulansari7979@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zm1f8kyyFDMbhXhPRh8zf6WSr11auWMi/view?usp=drive_link](https://drive.google.com/file/d/1zm1f8kyyFDMbhXhPRh8zf6WSr11auWMi/view?usp=drive_link)
 
