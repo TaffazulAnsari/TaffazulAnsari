@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952qr1f9ajsnw2dzrnkh1tv6t5ezn3ysep27bmrxjhx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <h1 align="center"> I'm Taffazul Ansari</h1>
-<h3 align="center">A passionate of MERN Stack and Java developer from India</h3>
+<h3 align="center">A passionate of MERN Stack and Java developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taffazulansari011&label=Profile%20views&color=0e75b6&style=flat" alt="taffazulansari011" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Taffazulansari7979/](https://github.com/Taffazulansari011/)
 
-- 💬 Ask me about **Python, Java, Node, Express, React, MongoDB, MySql**
+- 💬 Ask me about **Python, JavaScript, Java, MERN, MySql**
 
 - 📫 How to reach me **taffazulansari7979@gmail.com**
 
