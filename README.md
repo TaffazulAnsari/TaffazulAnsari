@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </a>
  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
-  <img src="[https://raw.githubusercontent.com/cypress-io/cypress/master/images/logo/cypress-logo.svg](https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg)" alt="cypress" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/cypress-1.svg" alt="cypress" width="40" height="40"/>
 </a>
 
 <a href="https://junit.org/" target="_blank" rel="noreferrer">
@@ -57,15 +57,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </a>
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/restassured/restassured-original.svg" alt="restassured" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/restassure.png" alt="restassured" width="40" height="40"/>
 </a>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" alt="jmeter" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
 </a>
 
 <h4>Performance Testing Tools:</h4>
 <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" alt="jmeter" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/jmeter_square.svg" alt="jmeter" width="40" height="40"/>
 </a>
 
 <h4>Web Development Technologies</h4>
@@ -111,7 +111,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" height="40"/>
 </a>
 <a href="https://microsoft.com/en-us/microsoft-365/project" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" alt="microsoft" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/microsoft.jpg" alt="microsoft" width="40" height="40"/>
 </a>
 
 <h4>Build and Test Management Tools</h4>
@@ -119,10 +119,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
 </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg" alt="npm" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/npm.png" alt="npm" width="40" height="40"/>
 </a>
 <a href="https://www.testcase.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testcase/testcase-original.svg" alt="testcase" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/test%20cases.png" alt="testcase" width="40" height="40"/>
 </a>
 
 <h4>Collaboration Tools</h4>
@@ -130,7 +130,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
 </a>
 <a href="https://www.zoom.us/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zoom/zoom-original.svg" alt="zoom" width="40" height="40"/>
+  <img src="https://github.com/TaffazulAnsari/images/blob/main/image/zoom.png" alt="zoom" width="40" height="40"/>
 </a>
 <a href="https://www.google.com/drive/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="40" height="40"/>
