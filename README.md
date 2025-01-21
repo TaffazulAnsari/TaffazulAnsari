@@ -8,15 +8,15 @@
 
 - 🔭 I’m currently working on **Test Automation Project using Selenium**
 
-- 🌱 I’m currently learning **Selenium, Cypress, JUnit, and Postman**
+- 🌱 I’m currently learning **Selenium, JUnit, and Postman**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TaffazulAnsari](https://github.com/TaffazulAnsari)
+- 👨‍💻 All of my projects are available at [here](https://github.com/TaffazulAnsari)
 
-- 💬 Ask me about **Manual Testing, Automation Testing, Java, JavaScript, Postman and Cucumber**
+- 💬 Ask me about **Manual Testing, Automation Testing, Java, selenium, cypress, JavaScript, Postman, and Cucumber**
 
 - 📫 How to reach me **taffazulansari7979@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zm1f8kyyFDMbhXhPRh8zf6WSr11auWMi/view?usp=drive_link](https://drive.google.com/file/d/1zm1f8kyyFDMbhXhPRh8zf6WSr11auWMi/view?usp=drive_link)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1CvsWMzjPUEYk3LfSl3dlPAdyHn87dLng/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
