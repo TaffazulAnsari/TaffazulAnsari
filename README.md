@@ -16,11 +16,11 @@
 
 - 📫 How to reach me **taffazulansari7979@gmail.com**
 
-- 📄 Know about my experiences [click here](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=678fa2d4f7b3074e913ad9e9)
+- 📄 Know about my experiences [click here](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6790bbcc565a02c8ebe840d4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/taffazul-ansari-87229a284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taffazulansari7979" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/taffazul-ansari-87229a284/" target="blank"><img align="cener" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taffazulansari7979" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/taffazulansari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taffazulansari01" height="30" width="40" /></a>
 <a href="https://discord.gg/taffazulansari_84705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taffazulansari_84705" height="30" width="40" /></a>
 <a href="https://github.com/TaffazulAnsari" target="_blank">
