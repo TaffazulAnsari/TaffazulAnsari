@@ -1,6 +1,6 @@
 ## Hey Everyone! 🌙
 
-<div style="display: flex; justify-content: center; align-items: center; height: 40vh;">
+<div style="display: flex; justify-content: center; align-items: center; height: 500vh;">
     <img alt="testing" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952qr1f9ajsnw2dzrnkh1tv6t5ezn3ysep27bmrxjhx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 </div>
 
@@ -24,7 +24,7 @@
 
 ---
 </p>
-<h3 align="left">Tools and Technologies:</h3>
+<h3 align="left">📬Tools and Technologies:</h3>
 <p align="left">
 <h4>Programming Languages:</h4>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -149,9 +149,9 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img alt="GitHub Streak" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
+  <img alt="GitHub Streak" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical"> 
   <img alt="Top Languages" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r">
-  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true">
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=TaffazulAnsari&count_private=true&theme=radical&show_icons=true">
 </p>
 
 
@@ -185,4 +185,6 @@
 
 
 ---
+
+
 
