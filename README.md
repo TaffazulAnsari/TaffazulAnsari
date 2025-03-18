@@ -1,6 +1,9 @@
 ## Hey Everyone! 🌙
 
-<img align="right" alt="testing" width="300" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952qr1f9ajsnw2dzrnkh1tv6t5ezn3ysep27bmrxjhx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<div style="display: flex; justify-content: center; align-items: center; height: 40vh;">
+    <img alt="testing" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952qr1f9ajsnw2dzrnkh1tv6t5ezn3ysep27bmrxjhx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+</div>
+
 <h1 align="center"> I'm Taffazul Ansari</h1>
 <h3 align="center">A passionate Manual and Automation Tester.</h3>
 
@@ -18,15 +21,8 @@
 
 - 📄 Know about my experiences [click here](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6790bbcc565a02c8ebe840d4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/taffazul-ansari-87229a284/" target="blank"><img align="cener" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taffazulansari7979" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/taffazulansari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="taffazulansari01" height="30" width="40" /></a>
-<a href="https://discord.gg/taffazulansari_84705" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="taffazulansari_84705" height="30" width="40" /></a>
-<a href="https://github.com/TaffazulAnsari" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="taffazulansari_84705" height="30" width="40" />
-</a>
 
+---
 </p>
 <h3 align="left">Tools and Technologies:</h3>
 <p align="left">
@@ -147,3 +143,46 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </a>
 </p>
+
+
+---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img alt="GitHub Streak" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashasvi-30&theme=radical">
+  <img alt="Top Languages" height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashasvi-30&theme=radical&layout=compact&exclude_lang=java+r">
+  <img alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-30&count_private=true&theme=radical&show_icons=true">
+</p>
+
+
+---
+
+## 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taffazul-ansari-87229a284/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30">
+  </a>
+  <a href="https://github.com/TaffazulAnsari">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30">
+  </a>
+  <a href="https://www.leetcode.com/taffazulansari01">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" height="30">
+  </a>
+  <a href="mailto:taffazulansari7979@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30">
+  </a>
+  <a href="https://x.com/TaffazulAnsari4">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height="30">
+  </a>
+  <a href="https://www.instagram.com/hey._its_taffazul">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="30">
+  </a>
+  <a href="https://discord.gg/taffazulansari_84705">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="30">
+  </a>
+</p>
+
+
+---
+
