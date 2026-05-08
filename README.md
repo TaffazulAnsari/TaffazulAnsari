@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **taffazulansari7979@gmail.com**
 
-- 📄 Know about my experiences [click here](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=6790bbcc565a02c8ebe840d4)
+- 📄 Know about my experiences [click here](https://drive.google.com/file/d/1kEdvZHYrbSAn5qnN82evj1tj0j-lxLJX/view?usp=sharing)
 
 
 ---
